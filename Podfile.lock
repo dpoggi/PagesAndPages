@@ -1,0 +1,16 @@
+PODS:
+  - Pageboy (3.5.0)
+
+DEPENDENCIES:
+  - Pageboy (= 3.5.0)
+
+SPEC REPOS:
+  trunk:
+    - Pageboy
+
+SPEC CHECKSUMS:
+  Pageboy: 3794c578aae5fcce06e90b3ed4a0ad6b807d75bb
+
+PODFILE CHECKSUM: 09bb26db439891bb2ccbc6be5e17ae3e8a8d40bb
+
+COCOAPODS: 1.8.4
